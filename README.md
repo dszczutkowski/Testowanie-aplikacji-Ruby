@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, daveszczutkowski@gmail.com
+## Testowanie aplikacji w Ruby, zaw.lukasz@gmail.com
 
 Podręczne linki:
 
